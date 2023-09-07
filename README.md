@@ -1,3 +1,4 @@
 # repo1
 learning repository
-Author : Solomon
+Author : King Solomon
+
